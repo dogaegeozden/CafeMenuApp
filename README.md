@@ -28,8 +28,3 @@ Experience the warmth and coziness of CAMPER CAFE at [123 Free Code Camp Drive](
 ## Screenshots
 
 ![CamperCafeApp Screenshot](https://raw.githubusercontent.com/dogaegeozden/CafeMenuApp/main/screenshots/screenshot1.png)
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
